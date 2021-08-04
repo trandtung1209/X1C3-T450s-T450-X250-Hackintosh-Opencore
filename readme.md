@@ -1,6 +1,6 @@
 # ThinkPad X1C3 Hackintosh
 
-<img align="right" src="/picture/bigsur.png" alt="Thinkpad X1C3" width="400">
+<img align="right" src="/picture/BigSur.png" alt="Thinkpad X1C3" width="400">
 
 ### Cái này làm cho vui
 
