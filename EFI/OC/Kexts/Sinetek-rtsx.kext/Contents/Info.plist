@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>21A5248p</string>
+	<string>19H524</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
@@ -17,54 +17,29 @@
 	<key>CFBundlePackageType</key>
 	<string>KEXT</string>
 	<key>CFBundleShortVersionString</key>
-	<string>9.1.0</string>
+	<string>2.5</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>9.1.0</string>
+	<string>9</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>13A5154h</string>
-	<key>DTPlatformName</key>
-	<string>macosx</string>
+	<string>11E801a</string>
 	<key>DTPlatformVersion</key>
-	<string>12.0</string>
+	<string>GM</string>
 	<key>DTSDKBuild</key>
-	<string>21A5248o</string>
+	<string>17A315g</string>
 	<key>DTSDKName</key>
-	<string>macosx12.0</string>
+	<string>macosx10.13</string>
 	<key>DTXcode</key>
-	<string>1300</string>
+	<string>1170</string>
 	<key>DTXcodeBuild</key>
-	<string>13A5154h</string>
+	<string>11E801a</string>
 	<key>IOKitPersonalities</key>
 	<dict>
-		<key>AppleSDXCBlockStorageDevice</key>
-		<dict>
-			<key>CFBundleIdentifier</key>
-			<string>com.apple.driver.AppleSDXC</string>
-			<key>Device Characteristics</key>
-			<dict>
-				<key>Product Name</key>
-				<string>Built In SDXC Reader</string>
-				<key>Vendor Name</key>
-				<string>Apple</string>
-			</dict>
-			<key>IOClass</key>
-			<string>AppleSDXCBlockStorageDevice</string>
-			<key>IOMediaIcon</key>
-			<dict>
-				<key>CFBundleIdentifier</key>
-				<string>com.apple.iokit.IOSCSIArchitectureModelFamily</string>
-				<key>IOBundleResourceFile</key>
-				<string>SD.icns</string>
-			</dict>
-			<key>IOProviderClass</key>
-			<string>AppleSDXCSlotNull</string>
-		</dict>
 		<key>Sinetek_rtsx</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
@@ -73,19 +48,8 @@
 			<string>Sinetek_rtsx</string>
 			<key>IOKitDebug</key>
 			<integer>65535</integer>
-			<key>IOMediaIcon</key>
-			<dict>
-				<key>CFBundleIdentifier</key>
-				<string>com.apple.iokit.IOSCSIArchitectureModelFamily</string>
-				<key>IOBundleResourceFile</key>
-				<string>SD.icns</string>
-				<key>Physical Interconnect</key>
-				<string>Secure Digital</string>
-				<key>Physical Interconnect Location</key>
-				<string>Internal</string>
-			</dict>
 			<key>IOPCIMatch</key>
-			<string>0x520910EC 0x522710EC 0x522910EC 0x522A10EC 0x524910EC 0x528610EC 0x528710EC 0x528910EC 0x525A10EC 0x526010EC</string>
+			<string>0x520910EC 0x522710EC 0x522910EC 0x522A10EC 0x524910EC 0x528610EC 0x528710EC 0x528910EC 0x525A10EC</string>
 			<key>IOProbeScore</key>
 			<integer>1000</integer>
 			<key>IOProviderClass</key>
@@ -113,7 +77,5 @@
 		<key>com.apple.kpi.unsupported</key>
 		<string>8.0</string>
 	</dict>
-	<key>OSBundleRequired</key>
-	<string>Root</string>
 </dict>
 </plist>
