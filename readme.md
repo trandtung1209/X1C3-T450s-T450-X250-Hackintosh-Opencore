@@ -10,9 +10,9 @@
 
 Mọi người dùng X1C3 hay T450/T450s X250 gì đó thì đều dùng được EFI này nha. Hiện mình đang cài BigSur 11.5 bằng Opencore 069 khá ổn, đã thử lên OC072 với Monterey Beta 3 nhưng mà bluetooth nó có vấn đề nên mình về lại như cũ, Catalina cũng hoạt động tốt, Mojave thì thỉnh thoảng văng ra màn hình nhập pass mà không biết fix hê hê. Nên tối ưu nhất chắc cứ ở Big Sur là đẹp 🍉
 
-## Introduction to the
+## Hmmmmm
 
-- Layout-id = 32, Chạy ./install.sh trong ALCPlugFix để tai nghe không bị rè
+- Layout-id = 32 nha, Chạy ./install.sh trong ALCPlugFix để tai nghe không bị rè
 - Cắm dock thì chuyển layout-id = 55
 - Hỗ trợ màn hình cảm ứng
 - Big Sur, Catalina, Mojave ổn áp.
@@ -90,5 +90,3 @@ Mọi người dùng X1C3 hay T450/T450s X250 gì đó thì đều dùng đượ
 - [ ] The fingerprint
 
 </details>
-
-<details>
