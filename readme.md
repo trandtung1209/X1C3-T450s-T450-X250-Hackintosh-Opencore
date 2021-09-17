@@ -8,7 +8,7 @@
 
 ### Hey
 
-Mọi người dùng X1C3 hay T450/T450s X250 gì đó thì đều dùng được EFI này nha. Hiện mình đang cài BigSur 11.5 bằng Opencore 069 khá ổn, đã thử lên OC072 với Monterey Beta 3 nhưng mà bluetooth nó có vấn đề nên mình về lại như cũ, Catalina cũng hoạt động tốt, Mojave thì thỉnh thoảng văng ra màn hình nhập pass mà không biết fix hê hê. Nên tối ưu nhất chắc cứ ở Big Sur là đẹp 🍉
+Mọi người dùng X1C3 hay T450/T450s X250 gì đó thì đều dùng được EFI này nha. Hiện mình đang cài BigSur 11.5 bằng Opencore 069 khá ổn, đã thử lên OC073 với Monterey Beta 3 nhưng mà bluetooth nó có vấn đề nên mình về lại như cũ, Catalina cũng hoạt động tốt, Mojave thì thỉnh thoảng văng ra màn hình nhập pass mà không biết fix hê hê. Nên tối ưu nhất chắc cứ ở Big Sur OC069 là đẹp 🍉
 
 ## Hmmmmm
 
