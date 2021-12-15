@@ -3,53 +3,53 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>19H1217</string>
+	<string>19H1519</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
-	<string>SidecarFixup</string>
+	<string>FeatureUnlock</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.khronokernel.SidecarFixup</string>
+	<string>com.khronokernel.FeatureUnlock</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>SidecarFixup</string>
+	<string>FeatureUnlock</string>
 	<key>CFBundlePackageType</key>
 	<string>KEXT</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0.2</string>
+	<string>1.0.4</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1.0.2</string>
+	<string>1.0.4</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>12B45b</string>
+	<string>12D4e</string>
 	<key>DTPlatformName</key>
 	<string>macosx</string>
 	<key>DTPlatformVersion</key>
-	<string>11.0</string>
+	<string>11.1</string>
 	<key>DTSDKBuild</key>
-	<string>20A2408</string>
+	<string>20C63</string>
 	<key>DTSDKName</key>
-	<string>macosx11.0</string>
+	<string>macosx11.1</string>
 	<key>DTXcode</key>
-	<string>1220</string>
+	<string>1240</string>
 	<key>DTXcodeBuild</key>
-	<string>12B45b</string>
+	<string>12D4e</string>
 	<key>IOKitPersonalities</key>
 	<dict>
-		<key>SidecarFixup</key>
+		<key>FeatureUnlock</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
-			<string>com.khronokernel.SidecarFixup</string>
+			<string>com.khronokernel.FeatureUnlock</string>
 			<key>IOClass</key>
-			<string>SidecarFixup</string>
+			<string>FeatureUnlock</string>
 			<key>IOMatchCategory</key>
-			<string>SidecarFixup</string>
+			<string>FeatureUnlock</string>
 			<key>IOProviderClass</key>
 			<string>IOResources</string>
 			<key>IOResourceMatch</key>
