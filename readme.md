@@ -1,21 +1,21 @@
 # ThinkPad X1C3 Hackintosh
 
-<img align="right" src="./BigSur.png" alt="Thinkpad X1C3" width="400">
+<img align="right" src="./Monterey.png" alt="Thinkpad X1C3" width="400">
 
-[![macOS](https://img.shields.io/badge/macOS-12.0-blue)](https://developer.apple.com/documentation/macos-release-notes)
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.7.2-green)](https://github.com/acidanthera/OpenCorePkg)
+[![macOS](https://img.shields.io/badge/macOS-12.1-blue)](https://developer.apple.com/documentation/macos-release-notes)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.7.6-green)](https://github.com/acidanthera/OpenCorePkg)
 [![ThinkPad](https://img.shields.io/badge/ThinkPad-T450s.X250.T450.X1C3-orange)](https://think.lenovo.com.cn/index.html)
 
 ### Hey
 
-Mọi người dùng X1C3 hay T450/T450s X250 gì đó thì đều dùng được EFI này nha. Hiện mình đang cài BigSur 11.5 bằng Opencore 069 khá ổn, đã thử lên OC073 với Monterey Beta 3 nhưng mà bluetooth nó có vấn đề nên mình về lại như cũ, Catalina cũng hoạt động tốt, Mojave thì thỉnh thoảng văng ra màn hình nhập pass mà không biết fix hê hê. Nên tối ưu nhất chắc cứ ở Big Sur OC069 là đẹp 🍉
+Mọi người dùng X1C3 hay T450/T450s X250 gì đó thì đều dùng được EFI này nha. Hiện mình đang dung X1C3 Monterey 12.1 + Opencore 076 khá ổn.BigSur, Catalina cũng hoạt động tốt, Mojave thì thỉnh thoảng văng ra màn hình nhập pass mà không biết fix hê hê. Nên tối ưu nhất chắc cứ ở Monterey là đẹp 🍉
 
 ## Hmmmmm
 
 - Layout-id = 32 nha, Chạy ./install.sh trong ALCPlugFix để tai nghe không bị rè
 - Cắm dock thì chuyển layout-id = 55
 - Hỗ trợ màn hình cảm ứng
-- Big Sur, Catalina, Mojave ổn áp.
+- Monterey, Big Sur, Catalina, Mojave ổn áp.
 - support ThinkPad X250 ThinkPad T450 ThinkPad T450s ThinkPad X1 Carbon 3rd.
 
 ## Hardware information
