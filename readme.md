@@ -1,14 +1,14 @@
 # ThinkPad X1C3 Hackintosh
 
-<img align="right" src="./Monterey.png" alt="Thinkpad X1C3" width="400">
+<img align="right" src="./Monterey12.5.png" alt="Thinkpad X1C3" width="400">
 
-[![macOS](https://img.shields.io/badge/macOS-12.2-blue)](https://developer.apple.com/documentation/macos-release-notes)
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.7.7-green)](https://github.com/acidanthera/OpenCorePkg)
+[![macOS](https://img.shields.io/badge/macOS-12.5-blue)](https://developer.apple.com/documentation/macos-release-notes)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.8.0-green)](https://github.com/acidanthera/OpenCorePkg)
 [![ThinkPad](https://img.shields.io/badge/ThinkPad-T450s.X250.T450.X1C3-orange)](https://think.lenovo.com.cn/index.html)
 
 ### Hey
 
-Mọi người dùng X1C3 hay T450/T450s X250 gì đó thì đều dùng được EFI này nha. Hiện mình đang dung X1C3 Monterey 12.2 + Opencore 077 khá ổn. BigSur, Catalina cũng hoạt động tốt, Mojave thì thỉnh thoảng văng ra màn hình nhập pass mà không biết fix hê hê. Nên tối ưu nhất chắc cứ ở Monterey là đẹp 🍉
+Mọi người dùng X1C3 hay T450/T450s X250 gì đó thì đều dùng được EFI này nha. Hiện mình đang dung X1C3 Monterey 12.5 + Opencore 080 khá ổn. BigSur, Catalina cũng hoạt động tốt, Mojave thì thỉnh thoảng văng ra màn hình nhập pass mà không biết fix hê hê. Nên tối ưu nhất chắc cứ ở Monterey là đẹp 🍉
 
 ## Hmmmmm
 
