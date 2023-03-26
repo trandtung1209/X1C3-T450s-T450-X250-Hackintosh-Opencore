@@ -1,6 +1,6 @@
 # ThinkPad X1C3 Hackintosh
 
-<img align="right" src="./Monterey12.5.png" alt="Thinkpad X1C3" width="400">
+<img align="right" src="./demo.png" alt="Thinkpad X1C3" width="400">
 
 [![macOS](https://img.shields.io/badge/macOS-12.5-blue)](https://developer.apple.com/documentation/macos-release-notes)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.8.0-green)](https://github.com/acidanthera/OpenCorePkg)
@@ -8,11 +8,11 @@
 
 ### Hey
 
-Mọi người dùng X1C3 hay T450/T450s X250 gì đó thì đều dùng được EFI này nha. Hiện mình đang dung X1C3 Monterey 12.5 + Opencore 080 khá ổn. BigSur, Catalina cũng hoạt động tốt, Mojave thì thỉnh thoảng văng ra màn hình nhập pass mà không biết fix hê hê. Nên tối ưu nhất chắc cứ ở Monterey là đẹp 🍉
+Mọi người dùng X1C3 hay T450/T450s X250 gì đó thì đều dùng được EFI này nha. Hiện mình đang dung X1C3 Monterey 12.6.3 + Opencore 090 khá ổn. Wifi mình thay từ Intel 7265AC thành DW1820A rồi. Cài BigSur, Catalina cũng hoạt động tốt, Mojave thì thỉnh thoảng văng ra màn hình nhập pass mà không biết fix hê hê. Nên tối ưu nhất chắc cứ ở Monterey là đẹp 🍉
 
 ## Hmmmmm
 
-- Layout-id = 32 nha, Chạy ./install.sh trong ALCPlugFix để tai nghe không bị rè
+- Layout-id = 32 nha, Chạy ./install.sh trong ALCPlugFix sau khi cắm tai nghe để tai nghe không bị rè
 - Cắm dock thì chuyển layout-id = 55
 - Hỗ trợ màn hình cảm ứng
 - Monterey, Big Sur, Catalina, Mojave ổn áp.
